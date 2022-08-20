@@ -1,10 +1,7 @@
-package Fundamentals;
+package main.java.Fundamentals;
 
 import java.util.Scanner;
 
-/**
- * Created by Justin on 2015/3/1.
- */
 public class Average {
     private static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {

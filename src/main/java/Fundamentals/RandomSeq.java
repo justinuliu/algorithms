@@ -1,11 +1,7 @@
-package Fundamentals;
-
+package main.java.Fundamentals;
 
 import java.util.Random;
 
-/**
- * Created by Justin on 2015/3/1.
- */
 public class RandomSeq {
     private static Random random = new Random(1);
     public static void main(String[] args)

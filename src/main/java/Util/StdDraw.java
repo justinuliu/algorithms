@@ -1,4 +1,4 @@
-package Util;
+package main.java.Util;
 
 /*************************************************************************
  *  Compilation:  javac StdDraw.java
